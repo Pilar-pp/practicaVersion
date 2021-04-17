@@ -7,7 +7,7 @@ y = 30
 print ("la suma es: ", x + y)
 
 ##Restas
-print("la resta es: ", y-x)
+print("El resultado de la resta es: ", y-x)
 
 ##Mutiplicaciones
 
